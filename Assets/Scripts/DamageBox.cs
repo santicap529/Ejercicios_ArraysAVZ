@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemigoScript : MonoBehaviour
+public class DamageBox : MonoBehaviour
 {
-    public int damagePoints;
+    public int DamageBoxPoints;
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
